@@ -99,6 +99,9 @@ img {
 
 
 .address-one {
+  align-items: center;
+  justify-content: center;
+  display: flex;
   font-style: normal;
 }
 
