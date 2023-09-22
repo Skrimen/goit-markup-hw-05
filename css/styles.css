@@ -615,12 +615,14 @@ color: #404bbf;
 .modal-graph-button:hover {
   background-color: #404bbf;
   border: none;
+  fill: #ffffff
 }
 
 
 .modal-graph-button:focus {
   background-color: #404bbf;
   border: none;
+  fill: #ffffff
 }
 
 .svg-modal {
