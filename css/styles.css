@@ -517,6 +517,7 @@ color: #404bbf;
 
 .modal-graph {
   margin-left: 80px;
+  padding: 72px 24px 24px 24px;
 }
 
 .subscribe {
@@ -616,6 +617,7 @@ color: #404bbf;
   border: none;
 }
 
+
 .modal-graph-button:focus {
   background-color: #404bbf;
   border: none;
@@ -624,5 +626,6 @@ color: #404bbf;
 .svg-modal {
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+
 
 
