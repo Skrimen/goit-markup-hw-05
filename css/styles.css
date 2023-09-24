@@ -683,3 +683,8 @@ color: #404bbf;
 .modal-form-svg:focus {
   fill: #4D5AE5;
 }
+
+.modal-comment {
+  margin-bottom: 16px;
+  
+}
