@@ -720,6 +720,7 @@ color: #404bbf;
 }
 
 .check-box-span {
+  margin-right: 8px;
   width: 16px;
   height: 16px;
   border: 1px solid rgba(46, 47, 66, 0.4);
@@ -736,6 +737,7 @@ color: #404bbf;
 }
 
 .modal-button {
+  margin:0 auto ;
   display: block;
   min-width: 169px;
   height: 56px;
