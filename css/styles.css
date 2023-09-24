@@ -732,7 +732,7 @@ color: #404bbf;
   fill: transparent;
 }
 
-.check-box-label:checked + .check-box-svg {
+.check-box-modal-hid:checked + .check-box-svg-a {
   background-color: #8E8F99;
   border: none;
   fill: #F4F4FD;
