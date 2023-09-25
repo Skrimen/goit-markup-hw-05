@@ -732,7 +732,7 @@ color: #404bbf;
   fill: transparent;
 }
 
-.visually-hidden:checked + .check-box-span {
+.visually-hidden:checked + .check-box-label > .check-box-span {
   background-color: #404bbf;
   border: none;
   fill: #F4F4FD;
