@@ -52,6 +52,10 @@ h1, h2, h3, h4, h5, h6, p, li, ul {
   color: black;
 }
 
+.one {
+  color: #404bbf;
+}
+
 .menu-one >li:first-child a::after {
   content: "";
   position: absolute;
